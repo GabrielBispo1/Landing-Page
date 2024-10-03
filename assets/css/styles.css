@@ -429,4 +429,8 @@ tfoot td, table th {
     .menu-spacing {
         display: none;
     }
+
+    h2 {
+        font-size: 3.8rem;
+    }
 }
